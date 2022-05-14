@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Work/csharp-presentation/CompilerOptimization/media/videos/main/480p30/partial_movie_files/DefaultTemplate/2974088251_2330473256_223132457.mp4'
+file 'file:C:/Work/csharp-presentation/CompilerOptimization/media/videos/main/480p30/partial_movie_files/DefaultTemplate/3111945184_2769193253_2319886907.mp4'
+file 'file:C:/Work/csharp-presentation/CompilerOptimization/media/videos/main/480p30/partial_movie_files/DefaultTemplate/3111945184_4065880486_2319886907.mp4'
